@@ -1,0 +1,22 @@
+{
+  "name": "Topps NFT Marketplace",
+  "short_name": "Topps NFT Marketplace",
+  "display": "standalone",
+  "start_url": "./",
+  "theme_color": "#002140",
+  "background_color": "#001529",
+  "icons": [
+    {
+      "src": "https://media.wax.io/QmRwnTUr2y42YkTGQhA9ZxTfnW3j74oGLc6okBBivn6tav/favicon.png/192x192",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://media.wax.io/QmRwnTUr2y42YkTGQhA9ZxTfnW3j74oGLc6okBBivn6tav/favicon.png/128x128",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://media.wax.io/QmRwnTUr2y42YkTGQhA9ZxTfnW3j74oGLc6okBBivn6tav/favicon.png/512x512",
+      "sizes": "512x512"
+    }
+  ]
+}

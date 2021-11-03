@@ -1,0 +1,50 @@
+{
+  "EDshWM3jBy2YUszMiFLAFLx3WkbtqR9An7JZzvg22R1P": {
+    "name": "Deployer Admin",
+    "image": "https://pbs.twimg.com/profile_images/1393399819213983746/2a8l5muc_400x400.png",
+    "description": "",
+    "background": ""
+  },
+  "CduMjFZLBeg3A9wMP3hQCoU1RQzzCpgSvQNXfCi1GCSB": {
+    "name": "Bartosz Lipinski",
+    "image": "https://pbs.twimg.com/profile_images/1393353972371623938/ZMWvvptg_400x400.jpg",
+    "description": "",
+    "background": ""
+  },
+  "44kiGWWsSgdqPMvmqYgTS78Mx2BKCWzduATkfY4biU97": {
+    "name": "Jordan Prince",
+    "image": "https://pbs.twimg.com/profile_images/1393399819213983746/2a8l5muc_400x400.png",
+    "description": "",
+    "background": ""
+  },
+  "3yp9iTsCgZoBsXhtRLB8cWHNcTDeR6VJniRuDrHNTuxU": {
+    "name": "James Madison",
+    "image": "https://pbs.twimg.com/profile_images/1393353972371623938/ZMWvvptg_400x400.jpg",
+    "description": "",
+    "background": ""
+  },
+  "SoL351y4uKWtbH14AU1Rhiao96aBM4u57bMi5Vj2XJc": {
+    "name": "Solana",
+    "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
+    "description": "Account used by Solana to mint official NFTs.",
+    "background": ""
+  },
+  "B2VbBjDQf3UrYsFTCCKE854gjoi1gUB2wa3qn5bkDHD8": {
+    "name": "Atlanta Braves",
+    "image": "https://pbs.twimg.com/profile_images/1406946164793131010/JgPoabiW_400x400.jpg",
+    "description": "The Atlanta Braves are an American professional baseball team based in the Atlanta metropolitan area. The Braves compete in Major League Baseball as a member club of the National League East division.",
+    "background": "https://pbs.twimg.com/profile_banners/21436663/1617941128/1500x500"
+  },
+  "HA4iBEMS3VNeZUPC273VvUyLfhcsFtF3bBb2atpaZGkG": {
+    "name": "Baltimore Orioles",
+    "background": "https://pbs.twimg.com/profile_banners/39389304/1622561676/1500x500",
+    "description": "The Baltimore Orioles are an American professional baseball team based in Baltimore, Maryland. The Orioles compete in Major League Baseball as a member club of the American League East division.",
+    "image": "https://pbs.twimg.com/profile_images/1410597369935134725/hm7fFSkL_400x400.jpg"
+  },
+  "2fatjmytZu5eDoiHjn9Q5sshy2YCobarML9nN7Sx2htr": {
+    "name": "Topps",
+    "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
+    "description": "Account used by Solana to mint official NFTs.",
+    "background": ""
+  }
+}
